@@ -1,0 +1,5 @@
+{"title": "nurettin", "author": "\u015fahin", "release_year": "1111", "pages": "2222"}
+{"title": "ramazan ", "author": "kezik", "release_year": "2000", "pages": "474"}
+{"title": "mehmet", "author": "komsu", "release_year": "147", "pages": "55"}
+{"title": "nurettin", "author": "sahin", "release_year": "111", "pages": "5555"}
+{"title": "nurettin 4", "author": "wpdwd", "release_year": "777777", "pages": "7777"}
